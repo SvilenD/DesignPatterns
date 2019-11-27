@@ -1,0 +1,11 @@
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.exe
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.deps.json
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.runtimeconfig.json
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.runtimeconfig.dev.json
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.dll
+D:\repos\DesignPatterns-Lab\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.pdb
+D:\repos\DesignPatterns-Lab\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.csprojAssemblyReference.cache
+D:\repos\DesignPatterns-Lab\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.AssemblyInfoInputs.cache
+D:\repos\DesignPatterns-Lab\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.AssemblyInfo.cs
+D:\repos\DesignPatterns-Lab\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.dll
+D:\repos\DesignPatterns-Lab\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.pdb
